@@ -34,9 +34,16 @@ and your Go server by running the following command in your `service` folder
 go run main.go
 ```
 
+## :wrench: Technology Stack
+* **Backend** Go
+* **Front-end** AngularJS
+
 ## :gem: Contributors
-Developed with :hearts: by team CodeZero.
+Developed with :hearts: by team TechFlyte.
 1. [CH Chandu](https://github.com/chanduch1999) - Core Developer
 2. [Hariharan K](https://github.com/harrycode007) - Core Developer
 3. [Sanket Khandelwal](https://github.com/teknas07) - Core Developer
 4. [C. Anirudh](https://github.com/C-Anirudh) - Core Developer, Maintainer
+
+## Contributing
+TechFlyte welcomes contributions to our open source projects on GitHub.
