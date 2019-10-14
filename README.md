@@ -45,4 +45,5 @@ Developed with :hearts: by team TechFlyte.
 4. [C. Anirudh](https://github.com/C-Anirudh) - Core Developer, Maintainer
 
 ## Contributing
-TechFlyte welcomes contributions to our open source projects on GitHub.
+
+Refer [CONTRIBUTING.md](https://github.com/C-Anirudh/shiken/blob/master/CONTRIBUTING.md) for instructions on how to contribute to the project.
