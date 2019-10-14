@@ -1,10 +1,9 @@
 ![Shiken Logo](ui/img/shiken2.png)
 # Shiken
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TechFlyte/shiken/graphs/commit-activity) [![GitHub license](https://img.shields.io/github/license/TechFlyte/shiken.svg)](https://github.com/TechFlyte/shiken/blob/master/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/TechFlyte/shiken.svg)](https://GitHub.com/TechFlyte/shiken/graphs/contributors/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/C-Anirudh/shiken/graphs/commit-activity) [![GitHub license](https://img.shields.io/github/license/C-Anirudh/shiken.svg)](https://github.com/C-Anirudh/shiken/blob/master/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/C-Anirudh/shiken.svg)](https://GitHub.com/C-Anirudh/shiken/graphs/contributors/) [![HitCount](http://hits.dwyl.io/C-Anirudh/shiken.svg)](http://hits.dwyl.io/C-Anirudh/shiken)
 
-
-[![GitHub stars](https://img.shields.io/github/stars/TechFlyte/shiken.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/TechFlyte/shiken/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/TechFlyte/shiken.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/TechFlyte/shiken/network/) [![GitHub watchers](https://img.shields.io/github/watchers/TechFlyte/shiken.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/TechFlyte/shiken/watchers/)
+[![GitHub stars](https://img.shields.io/github/stars/C-Anirudh/shiken.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/C-Anirudh/shiken/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/C-Anirudh/shiken.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/C-Anirudh/shiken/network/) [![GitHub watchers](https://img.shields.io/github/watchers/C-Anirudh/shiken.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/C-Anirudh/shiken/watchers/)
 
 Shiken is an online MCQ Quiz builder that will help teachers take tests on the Go (pun intended :smiley:) and assess student performance with great ease.
 
