@@ -157,4 +157,3 @@ function Frame() {
 }
 
 Frame();
- style.css
